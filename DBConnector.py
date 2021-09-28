@@ -2,10 +2,10 @@ import psycopg2
 
 # DB Credentials
 conn = psycopg2.connect(
-    host="localhost",
-    database="interview_app_DB",
-    user="postgres",
-    password="Smoothhippo8",
+    host="",
+    database="",
+    user="",
+    password="",
 )
 
 
